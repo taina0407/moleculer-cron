@@ -23,7 +23,7 @@
   "homepage": "https://github.com/davidroman0O/moleculer-cron#readme",
   "author": "David Roman",
   "peerDependencies": {
-    "moleculer": "^0.14.7"
+    "moleculer": "^0.12.0 || ^0.13.0 || ^0.14.0"
   },
   "devDependencies": {
     "benchmarkify": "2.1.0",
