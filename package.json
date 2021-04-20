@@ -1,5 +1,5 @@
 {
-  "name": "moleculer-cron",
+  "name": "moleculer-cron-ed",
   "version": "0.0.2",
   "description": "Mixin for Node-Cron",
   "main": "index.js",
